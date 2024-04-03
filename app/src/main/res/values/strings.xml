@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">diabetes5</string>
+    <string name="CustomerName">Имя покупателя</string>
+    <string name="CustomerAge">Возраст покупателя</string>
+    <string name="BtnAdd">Добавить</string>
+    <string name="BtnViewAll">Показать всех</string>
+</resources>
